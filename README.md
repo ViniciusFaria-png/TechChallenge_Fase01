@@ -2,6 +2,14 @@
 
 Aplicação de Blogging Dinâmico para Rede Pública de Ensino
 
+## 🤝 GRUPO
+
+* RM 362457  - Alessandra  Guedes
+* RM 362166 - Ana Carolina
+* RM 363723 - Vinicius Faria
+* RM 360942 - Vitor Freire
+
+
 ## 🧠 Visão Geral
 
 A aplicação visa oferecer uma plataforma simples, prática e centralizada onde professores podem publicar conteúdos educacionais e alunos podem acessá-los. O objetivo é facilitar a disseminação de conhecimento utilizando uma aplicação web desenvolvida na plataforma OutSystems.
